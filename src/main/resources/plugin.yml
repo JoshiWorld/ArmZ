@@ -4,12 +4,12 @@ author: JoshiWorld
 main: de.joshiworld.main.ArmZ
 
 commands:
+    bau:
+        description: Bau
+        usage: </bau>
     spawn:
         description: Spawn
         usage: </spawn>
     chest:
         description: Chests
         usage: </chest>
-    bau:
-        description: Bau
-        usage: </bau>
