@@ -1,0 +1,15 @@
+name: ArmZ
+version: 2.0
+author: JoshiWorld
+main: de.joshiworld.main.ArmZ
+
+commands:
+    spawn:
+        description: Spawn
+        usage: </spawn>
+    chest:
+        description: Chests
+        usage: </chest>
+    bau:
+        description: Bau
+        usage: </bau>
